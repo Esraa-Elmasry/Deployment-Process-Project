@@ -14,4 +14,7 @@ Pipeline process:
 
    Pipeline Infrastructure diagram:
 
+![Pipeline Infrastructure diagram](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/Pipeline%20Process.png?raw=true)
+
+
    
