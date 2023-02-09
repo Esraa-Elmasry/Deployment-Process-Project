@@ -10,6 +10,13 @@ The application have udagram/udagram-front for the frontend and udagram/udagram-
 - The Backend is hosted on Amazon Elastic Beanstalk
 - The postgres Database is hosted on Amazon RDS
 
+## Infrastructure Diagram:
+
+![Infrastructure](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/screenshots/Infrastructure%20Diagram.png?raw=true)
+
+
+
+
 ## CircleCi Pipeline: 
 A service that provided us to trigger any actions or updates happen in our github repo and trigger the pipeline to update our code. You can see the process [here](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/Pipeline_description.md)
 
