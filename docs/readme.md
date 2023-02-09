@@ -10,7 +10,7 @@ The application have udagram/udagram-front for the frontend and udagram/udagram-
 - The Backend is hosted on Amazon Elastic Beanstalk
 - The postgres Database is hosted on Amazon RDS
 
-# CircleCi Pipeline: 
+## CircleCi Pipeline: 
 A service that provided us to trigger any actions or updates happen in our github repo and trigger the pipeline to update our code. You can see the process [here](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/Pipeline_description.md)
 
 - Pipeline Process:
@@ -38,12 +38,12 @@ A service that provided us to trigger any actions or updates happen in our githu
 ![variables](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/screenshots/Environment%20Variables.png?raw=true)
 
 
-# AWS RDS for the database overview:
+## AWS RDS for the database overview:
 
 ![rds](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/screenshots/RDS%20for%20database.png?raw=true)
 
 
-# AWS Elastic Beanstalk for the (backend) API deployment
+## AWS Elastic Beanstalk for the (backend) API deployment
 
 - Elastic Beanstalk environment:
 
@@ -54,7 +54,7 @@ A service that provided us to trigger any actions or updates happen in our githu
 
 ![application](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/screenshots/Elastic%20Beanstalk%20Application.png?raw=true)
 
-AWS S3 for (frontend) web hosting:
+## AWS S3 for (frontend) web hosting:
 
 ![s3](https://github.com/Esraa-Elmasry/Deployment-Process-Project/blob/main/docs/screenshots/S3%20for%20frontend%20hosting.png?raw=true)
 
